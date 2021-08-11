@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mat3usps=anuraghazra&theme=dark&show_icons=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username={mat3usps}&theme=blue-green
 - 📫 How to reach me: **mateusp.s@outlook.com**
 
 
