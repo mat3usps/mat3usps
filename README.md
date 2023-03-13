@@ -4,7 +4,8 @@
 
 - 🎓 Graduation: Literature
 - 📍 Nationality: Brazilian
-- 😄 Hobbies: Painting, dancing and gaming
+- 🕺 Hobbies: Painting, dancing and gaming
+- ⚡ Fun fact: A child of "pear tree" family who enjoys being so. Do you like pears? (maybe not fun at all 🥲)
 
 ## Find me in:
 [![LinkedIn profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuspereiras/)
